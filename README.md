@@ -14,7 +14,7 @@ By combining these datasets, the project aims to provide insights into how housi
 The data I'm going to use in this project is included in three tables.
 1. Global housing prices and other important indexes (source: https://www.kaggle.com/datasets/atharvasoundankar/global-housing-market-analysis-2015-2024)
 2. Unemployment data by Age, Year and Country (source: https://www.kaggle.com/datasets/sazidthe1/global-unemployment-data)
-3. Net primary income (for Adults) of households and NPISH (source: https://wid.world/data/)
+3. GDP per capita (current US$) (source: https://data.worldbank.org/indicator/NY.GDP.PCAP.CD)
 
 ## Data Cleaning
 
