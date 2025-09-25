@@ -28,6 +28,8 @@ First, I did some very important transformations in my tables:
 - Filtered to keep countries (e.g., Deleted values like Eastern Asia, Low Income)
 - Unpivoted Columns so the years 2014-2024 added as values in one column named _Year_ and not as headers of different columns
 
+I also added a column that shows which income is low, middle, or high based on the following reference values: low: <30000, middle: >30000 & <70000, high: >70000
+
 **Unemployment** Table:
 - Fixed the numbers in the correct form and type (comma instead of dot, decimal number instead of text)
 - Replaced values to the right form (e.g., _Russia Federation_ to _Russia_)
