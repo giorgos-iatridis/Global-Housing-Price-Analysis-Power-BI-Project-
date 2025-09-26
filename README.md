@@ -66,7 +66,16 @@ I also added a column that shows which income is low, middle, or high based on t
 <img width="1216" height="700" alt="image" src="https://github.com/user-attachments/assets/2592478f-5ad4-4d28-92ee-6ea80e79e67a" />
 
 ## Visualizations / Dashboard
-<img width="1920" height="915" alt="image" src="https://github.com/user-attachments/assets/1997e16f-9008-4cb4-98b3-cb294d788deb" />
+<img width="1920" height="945" alt="image" src="https://github.com/user-attachments/assets/c0e2f1f9-56b1-49df-9876-e40d1c07e6ef" />
+
+#### We can choose a specific year
+<img width="1915" height="824" alt="image" src="https://github.com/user-attachments/assets/97ab2466-f3a6-462e-b3e9-5672b08b2ead" />
+
+#### or/and a specific country
+<img width="1920" height="823" alt="image" src="https://github.com/user-attachments/assets/7a6f5b72-f1e7-4a18-818b-0f374f973ddf" />
+
+
+
 
 ## Comments
 
