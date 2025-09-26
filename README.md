@@ -1,4 +1,4 @@
-# Global-Housing-Price-Analysis-Power-BI-Project-
+# Global Housing & Economy 2015-2024
 
 This project explores key socioeconomic indicators across different countries using Power BI.
 The analysis is based on three main datasets:
